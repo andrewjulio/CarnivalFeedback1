@@ -1,0 +1,86 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Carnival Special/Assets/Editor.meta
+#	new file:   Carnival Special/Assets/Editor/CrossPlatformInput.meta
+#	new file:   Carnival Special/Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+#	new file:   Carnival Special/Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta
+#	new file:   Carnival Special/Assets/GoogleVR.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Editor.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Editor/PermissionsDemoBuildEditor.cs
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Editor/PermissionsDemoBuildEditor.cs.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/DemoEnvUnlitGrayscale.shader
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/DemoEnvUnlitGrayscale.shader.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/Materials.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/Materials/cubeRoomEnvMat.mat
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/Materials/cubeRoomEnvMat.mat.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/cubeRoom.obj.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/cubeRoomDiffuse4096.png
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Environment/cubeRoomDiffuse4096.png.meta
+#	new file:   Carnival Special/Assets/GoogleVR/Demos/Images.meta
+#
+# Untracked files:
+#	Carnival Special/Assets/GoogleVR/Demos/Images/
+#	Carnival Special/Assets/GoogleVR/Demos/Materials.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Materials/
+#	Carnival Special/Assets/GoogleVR/Demos/Prefabs.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Prefabs/
+#	Carnival Special/Assets/GoogleVR/Demos/README.md
+#	Carnival Special/Assets/GoogleVR/Demos/README.md.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Scenes.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Scenes/
+#	Carnival Special/Assets/GoogleVR/Demos/Scripts.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Scripts/
+#	Carnival Special/Assets/GoogleVR/Demos/Shaders.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Shaders/
+#	Carnival Special/Assets/GoogleVR/Demos/Sounds.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Sounds/
+#	Carnival Special/Assets/GoogleVR/Demos/Textures.meta
+#	Carnival Special/Assets/GoogleVR/Demos/Textures/
+#	Carnival Special/Assets/GoogleVR/Distortion.meta
+#	Carnival Special/Assets/GoogleVR/Distortion/
+#	Carnival Special/Assets/GoogleVR/Editor.meta
+#	Carnival Special/Assets/GoogleVR/Editor/
+#	Carnival Special/Assets/GoogleVR/Fonts.meta
+#	Carnival Special/Assets/GoogleVR/Fonts/
+#	Carnival Special/Assets/GoogleVR/GVRVideoPlayer.unitypackage.meta
+#	Carnival Special/Assets/GoogleVR/LICENSE
+#	Carnival Special/Assets/GoogleVR/LICENSE.meta
+#	Carnival Special/Assets/GoogleVR/Materials.meta
+#	Carnival Special/Assets/GoogleVR/Materials/
+#	Carnival Special/Assets/GoogleVR/Models.meta
+#	Carnival Special/Assets/GoogleVR/Models/
+#	Carnival Special/Assets/GoogleVR/Prefabs.meta
+#	Carnival Special/Assets/GoogleVR/Prefabs/
+#	Carnival Special/Assets/GoogleVR/README
+#	Carnival Special/Assets/GoogleVR/README.meta
+#	Carnival Special/Assets/GoogleVR/Resources.meta
+#	Carnival Special/Assets/GoogleVR/Resources/
+#	Carnival Special/Assets/GoogleVR/Scripts.meta
+#	Carnival Special/Assets/GoogleVR/Scripts/
+#	Carnival Special/Assets/GoogleVR/Shaders.meta
+#	Carnival Special/Assets/GoogleVR/Shaders/
+#	Carnival Special/Assets/GoogleVR/Textures.meta
+#	Carnival Special/Assets/GoogleVR/Textures/
+#	Carnival Special/Assets/Marc Jungermann - The Carousel First Section Refined.mp3
+#	Carnival Special/Assets/Marc Jungermann - The Carousel First Section Refined.mp3.meta
+#	Carnival Special/Assets/Plugins.meta
+#	Carnival Special/Assets/Plugins/
+#	Carnival Special/Assets/TextMesh Pro.meta
+#	Carnival Special/Assets/TextMesh Pro/
+#	Carnival Special/Assets/Timer.cs
+#	Carnival Special/Assets/Timer.cs.meta
+#	Carnival Special/Assets/UdacityVR.meta
+#	Carnival Special/Assets/UdacityVR/
+#	Carnival Special/Library/
+#	Carnival Special/ProjectSettings/
+#
+

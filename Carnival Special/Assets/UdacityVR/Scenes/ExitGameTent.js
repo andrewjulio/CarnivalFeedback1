@@ -1,0 +1,3 @@
+﻿function QuitGame() {
+Application.Quit();
+}
